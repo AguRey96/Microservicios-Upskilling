@@ -32,22 +32,22 @@ Please note that you do not need to set up or run the application locally. Simpl
 
 *Characters
 
-GET /characters: Get all characters
-GET /characters/:id Get only one by id
-POST /characters: Create a new character
-PUT /characters/:id Update a character by id
-DELETE /characters/:id Delete a character by id
+- `GET /characters`: Get all characters
+- `GET /characters/:id`: Get only one by id
+- `POST /characters`: Create a new character
+- `PUT /characters/:id`: Update a character by id
+- `DELETE /characters/:id`: Delete a character by id
 
 *Planets
-GET /planets: Get all planets
-GET /planets/:id Get only one by id
-POST /planets: Create a new planet
-PUT /planets/:id Update a planet by id
-DELETE /planets/:id Delete a planet by id
+- `GET /planets`: Get all planets
+- `GET /planets/:id`Get only one by id
+- `POST /planets`: Create a new planet
+- `PUT /planets/:id`:Update a planet by id
+- `DELETE /planets/:id`: Delete a planet by id
 
 *Films
-GET /films: Get all film
-GET /films/:id Get only one by id
-POST /films: Create a new film
-PUT /films/:id Update a film by id
-DELETE /films/:id Delete a film by id
+- `GET /films`: Get all film
+- `GET /films/:id`: id Get only one by id
+- `POST /films`: Create a new film
+- `PUT /films/:id`: Update a film by id
+- `DELETE /films/:id`: Delete a film by id
