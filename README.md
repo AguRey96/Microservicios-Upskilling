@@ -10,7 +10,7 @@ Welcome to the Star Wars Microservices REST API, a collection of microservices t
 ### Technologies
 
 - Node.js
-- TypeScript
+- JavaScript
 - Express
 - MongoDB
 - Mongoose
